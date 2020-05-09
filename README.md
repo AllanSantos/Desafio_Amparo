@@ -5,43 +5,43 @@
 
 ## Tecnologias utilizadas:
 
-- Express
+- **Express**
   > É um framework para Node. js.
   
-- Cors
+- **Cors**
   > Permite que um site acesse recursos de outro site mesmo estando em domínios diferentes.
   
-- ts-node-dev
+- **ts-node-dev**
   > Versão aprimorada do node-dev que usa o ts-node sob o capô.
   
-- PG
+- **pg**
   > Cliente PostgreSQL sem bloqueio para Node.js. JavaScript puro e ligações libpq nativas opcionais.
   
-- UUIDV4
+- **uuidv4**
   > O uuidv4 cria UUIDs da v4.
   
-- Axios
+- **Axios**
   > Consultas em API's externas.
   
-- TypeScript
+- **TypeScript**
   > É um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem
 
-- EsLint
+- **EsLint**
   > É uma ferramenta de análise de código estática para identificar padrões problemáticos encontrados no código JavaScript
 
-- Prettier
+- **Prettier**
   > Responsável por formatar o código de acordo com regras cadastradas.
   
-- TypeORM
+- **TypeORM**
   > ORM (Object-Relational Mapper) para Node/TypeScript.
   
-- Docker
+- **Docker**
   > É uma plataforma de código aberto para criação de ambientes isolados via container.
   
-- Banco Postgres
+- **Banco Postgres**
   > Banco relacional Postgres.
   
-- Material-UI
+- **Material-UI**
   > Componentes React para um desenvolvimento mais rápido e fácil
 
 
